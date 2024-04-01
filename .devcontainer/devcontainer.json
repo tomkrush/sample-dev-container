@@ -1,0 +1,7 @@
+{
+    "name": "Test",
+    "dockerComposeFile": "../docker-compose.yml",
+    "service": "web",
+    "workspaceFolder": "/var/www",
+    "remoteUser": "root"
+}
